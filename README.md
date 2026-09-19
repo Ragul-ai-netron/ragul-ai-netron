@@ -34,7 +34,6 @@ I'm particularly interested in:
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
-- 🛡️ Fraud Detection
 - ⚙️ Intelligent Automation
 - 📊 Explainable AI
 - 🌐 AI-powered products
