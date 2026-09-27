@@ -1,13 +1,12 @@
-::: {align="center"}
-`<img src="./ragul-ai-engineer-thirazen-no-face-2.gif" alt="Ragul // AI Engineer" width="100%">`{=html}
+<div align="center">
+  <img src="./ragul-ai-engineer-thirazen-no-face-2.gif" alt="Ragul // AI Engineer" width="100%">
+</div>
 
 # ⚡ RAGUL // AI ENGINEER
 
 ### Build • Learn • Ship
 
-**AI / ML · Python · Automation · Fraud Intelligence · Interactive
-Products**
-:::
+**AI / ML · Python · Automation · Fraud Intelligence · Interactive Products**
 
 ------------------------------------------------------------------------
 
