@@ -138,6 +138,8 @@ real world, and continuously improving them.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+<div align="center">
+
 ⚡ **BUILD • BREAK • FIX • SHIP** ⚡
-:::
+
+</div>
