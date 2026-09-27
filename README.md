@@ -1,9 +1,5 @@
 <div align="center">
-<img src="./ragul-ai-banner.gif" alt="Ragul AI Engineer" width="100%">
-⚡ RAGUL // AI ENGINEER
-Building intelligent systems. Turning ideas into products.
-AI / ML · Python · Automation · Fraud Intelligence · Interactive Products
-![GitHub](https://img.shields.io/badge/GitHub-Ragul--ai--netron-181717?style=for-the-badge&logo=github)
+  <img src="./ragul-ai-engineer-thirazen-no-face-2.gif" alt="Ragul AI Engineer" width="100%">
 </div>
 ---
 <div align="center">
